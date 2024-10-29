@@ -1,5 +1,6 @@
 cd C:\Users\hanji\Desktop\git_Auto_Command
-del /Q *.txt
+#del /Q *.txt
+git pull
 
 set "today=%date:~0,4%-%date:~5,2%-%date:~8,2%"
 set "time=%time:~0,2%-%time:~3,2%-%time:~6,2%"
