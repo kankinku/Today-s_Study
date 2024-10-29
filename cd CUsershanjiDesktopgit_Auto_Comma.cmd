@@ -5,7 +5,7 @@ git pull
 set "today=%date:~0,4%-%date:~5,2%-%date:~8,2%"
 set "time=%time:~0,2%-%time:~3,2%-%time:~6,2%"
 set "time=%time: =0%"
-echo. > "%today%_%time%.txt"
+echo. > "%today%_%time%.c"
 
 
 git add .
