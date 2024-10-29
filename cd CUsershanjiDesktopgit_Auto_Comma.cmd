@@ -7,7 +7,7 @@ set "time=%time: =0%"
 
 mkdir "%today%"
 
-echo. > "%today%_%time%.c"
+echo. > "%today%/%today%-%time%.c"
 
 git add .
 git commit -m "today study update"
