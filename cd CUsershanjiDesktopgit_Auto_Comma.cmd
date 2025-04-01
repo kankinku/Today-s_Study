@@ -1,4 +1,4 @@
-cd C:\Users\hanji\Desktop\git_Auto_Command
+cd C:\auto_git_push
 git pull
 
 set "today=%date:~0,4%-%date:~5,2%-%date:~8,2%"
