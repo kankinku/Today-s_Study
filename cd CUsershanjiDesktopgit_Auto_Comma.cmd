@@ -1,4 +1,4 @@
-cd C:\auto_git_push
+C:\auto_git_push\Today-s_Study
 git pull
 
 set "today=%date:~0,4%-%date:~5,2%-%date:~8,2%"
