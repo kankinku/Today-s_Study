@@ -1,0 +1,249 @@
+{
+  "version": 16,
+  "providers": [
+    {
+      "type": "anthropic-plan",
+      "id": "anthropic-plan"
+    },
+    {
+      "type": "openai-plan",
+      "id": "openai-plan",
+      "oauth": {
+        "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE5MzQ0ZTY1LWJiYzktNDRkMS1hOWQwLWY5NTdiMDc5YmQwZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS92MSJdLCJjbGllbnRfaWQiOiJhcHBfRU1vYW1FRVo3M2YwQ2tYYVhwN2hyYW5uIiwiZXhwIjoxNzY5ODc4ODE4LCJodHRwczovL2FwaS5vcGVuYWkuY29tL2F1dGgiOnsiY2hhdGdwdF9hY2NvdW50X2lkIjoiZTFiYWI3YWMtOWQ0Mi00MjNiLTlkMWMtYmEyMTQwODJmMjFkIiwiY2hhdGdwdF9hY2NvdW50X3VzZXJfaWQiOiJ1c2VyLTU3ek5PSTlhTmU5MXROelZ3cTN2Q2xpTV9fZTFiYWI3YWMtOWQ0Mi00MjNiLTlkMWMtYmEyMTQwODJmMjFkIiwiY2hhdGdwdF9jb21wdXRlX3Jlc2lkZW5jeSI6Im5vX2NvbnN0cmFpbnQiLCJjaGF0Z3B0X3BsYW5fdHlwZSI6InBsdXMiLCJjaGF0Z3B0X3VzZXJfaWQiOiJ1c2VyLTU3ek5PSTlhTmU5MXROelZ3cTN2Q2xpTSIsInVzZXJfaWQiOiJ1c2VyLTU3ek5PSTlhTmU5MXROelZ3cTN2Q2xpTSJ9LCJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJoYW5qaW51MTIzQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlfSwiaWF0IjoxNzY5MDE0ODE3LCJpc3MiOiJodHRwczovL2F1dGgub3BlbmFpLmNvbSIsImp0aSI6IjczNmRmNmRhLTRkMGYtNGI3MC05NjA2LWU3NTA3MjM0MDRjYSIsIm5iZiI6MTc2OTAxNDgxNywicHdkX2F1dGhfdGltZSI6MTc2OTAxNDgxMDM0MCwic2NwIjpbIm9wZW5pZCIsInByb2ZpbGUiLCJlbWFpbCIsIm9mZmxpbmVfYWNjZXNzIl0sInNlc3Npb25faWQiOiJhdXRoc2Vzc19ueDhxT09RSktlRXE3UWtLT2dyUEtZbkUiLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExNDc1MTIxNjc0MzA1NTQwMTkxMCJ9.6VVcZ4rC5SWNZoEQPBktQIhJhP_Z3hBnsU3HI20bRMPj3s_50cE07cgIZOl20T9V7JcGZ-gnrBLBV7kbXPiQzmwjjklsHrPDBIuXSYbGADGPfTTJjrN-Utph-u011Esn106qOuesZ7PX_cTtv5GBpBWq348GqYOi71FOCGN4T4KXHJhJpx7Q4WEOYyEhUun9248Nbll4HZaFQcWYCbCTQn7ubpsj_MCBKpRQPrYvGNDDtpRPZv2BSS6zfxO9s7zKf8gRA59nBp0XJRc74Lb8_DZYVqAdcFUTiFjcg1Oz5Ay21aIwyCOIbSeXaOeShKUrTBCwjYg1eD7yMr1CXZ60GcrausuTV822JbuZanQTp_74mCttfCnnJWL-sRVzn95A5uiCjYmR_5TDZolHZphQp7QeZdkdZHCjY6npK1oRbGGt7L4pTLcpRoifwi1dTzb85tESkXD6rQ3mbuKRgNiW2BIhC8t4BSeYwotLGraXvBdOnKaFAIkdven5WmDElXVYp7rMOUhvl2O81h3Us-QRsmuU-bjRc4ZvSZ5J63ANfi8viTOtB7Il0F_pEVPA3gzqBj-3F7-XylmE73_T0sKVrVbKym_mOU6OLCfwVHhS5Ir2yLWMJX7-B6CcHJPHvL3fe0La7sf4nhlpcyMUysdO05CxJJzsruH4V28t4QhGMfk",
+        "refreshToken": "rt_p2PHGE4N1SPu1i4i0oc03Tshiiiuj04LUOL8aPjYDgg.HezQBp2CzW5oJC7mB22w4KHFjH_i4ALkVezzl4bv1F4",
+        "expiresAt": 1769878818059,
+        "accountId": "e1bab7ac-9d42-423b-9d1c-ba214082f21d"
+      }
+    },
+    {
+      "type": "gemini-plan",
+      "id": "gemini-plan"
+    },
+    {
+      "type": "anthropic",
+      "id": "anthropic"
+    },
+    {
+      "type": "openai",
+      "id": "openai"
+    },
+    {
+      "type": "gemini",
+      "id": "gemini"
+    },
+    {
+      "type": "xai",
+      "id": "xai"
+    },
+    {
+      "type": "deepseek",
+      "id": "deepseek"
+    },
+    {
+      "type": "mistral",
+      "id": "mistral"
+    },
+    {
+      "type": "perplexity",
+      "id": "perplexity"
+    },
+    {
+      "type": "openrouter",
+      "id": "openrouter"
+    },
+    {
+      "type": "ollama",
+      "id": "ollama"
+    },
+    {
+      "type": "lm-studio",
+      "id": "lm-studio"
+    }
+  ],
+  "chatModels": [
+    {
+      "providerType": "anthropic-plan",
+      "providerId": "anthropic-plan",
+      "id": "claude-opus-4.5 (plan)",
+      "model": "claude-opus-4-5",
+      "thinking": {
+        "enabled": true,
+        "budget_tokens": 8192
+      }
+    },
+    {
+      "providerType": "anthropic-plan",
+      "providerId": "anthropic-plan",
+      "id": "claude-sonnet-4.5 (plan)",
+      "model": "claude-sonnet-4-5",
+      "thinking": {
+        "enabled": true,
+        "budget_tokens": 8192
+      }
+    },
+    {
+      "providerType": "openai-plan",
+      "providerId": "openai-plan",
+      "id": "gpt-5.2 (plan)",
+      "model": "gpt-5.2"
+    },
+    {
+      "providerType": "gemini-plan",
+      "providerId": "gemini-plan",
+      "id": "gemini-3-pro-preview (plan)",
+      "model": "gemini-3-pro-preview"
+    },
+    {
+      "providerType": "gemini-plan",
+      "providerId": "gemini-plan",
+      "id": "gemini-3-flash-preview (plan)",
+      "model": "gemini-3-flash-preview"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-opus-4.5",
+      "model": "claude-opus-4-5"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-sonnet-4.5",
+      "model": "claude-sonnet-4-5"
+    },
+    {
+      "providerType": "anthropic",
+      "providerId": "anthropic",
+      "id": "claude-haiku-4.5",
+      "model": "claude-haiku-4-5"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-5.2",
+      "model": "gpt-5.2"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-5-mini",
+      "model": "gpt-5-mini"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "gpt-4.1-mini",
+      "model": "gpt-4.1-mini"
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "o4-mini",
+      "model": "o4-mini",
+      "reasoning": {
+        "enabled": true,
+        "reasoning_effort": "medium"
+      }
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini-3-pro-preview",
+      "model": "gemini-3-pro-preview"
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini-3-flash-preview",
+      "model": "gemini-3-flash-preview"
+    },
+    {
+      "providerType": "deepseek",
+      "providerId": "deepseek",
+      "id": "deepseek-chat",
+      "model": "deepseek-chat"
+    },
+    {
+      "providerType": "deepseek",
+      "providerId": "deepseek",
+      "id": "deepseek-reasoner",
+      "model": "deepseek-reasoner"
+    },
+    {
+      "providerType": "xai",
+      "providerId": "xai",
+      "id": "grok-4-1-fast",
+      "model": "grok-4-1-fast"
+    },
+    {
+      "providerType": "xai",
+      "providerId": "xai",
+      "id": "grok-4-1-fast-non-reasoning",
+      "model": "grok-4-1-fast-non-reasoning"
+    }
+  ],
+  "embeddingModels": [
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/text-embedding-3-small",
+      "model": "text-embedding-3-small",
+      "dimension": 1536
+    },
+    {
+      "providerType": "openai",
+      "providerId": "openai",
+      "id": "openai/text-embedding-3-large",
+      "model": "text-embedding-3-large",
+      "dimension": 3072
+    },
+    {
+      "providerType": "gemini",
+      "providerId": "gemini",
+      "id": "gemini/text-embedding-004",
+      "model": "text-embedding-004",
+      "dimension": 768
+    },
+    {
+      "providerType": "ollama",
+      "providerId": "ollama",
+      "id": "ollama/nomic-embed-text",
+      "model": "nomic-embed-text",
+      "dimension": 768
+    },
+    {
+      "providerType": "ollama",
+      "providerId": "ollama",
+      "id": "ollama/mxbai-embed-large",
+      "model": "mxbai-embed-large",
+      "dimension": 1024
+    },
+    {
+      "providerType": "ollama",
+      "providerId": "ollama",
+      "id": "ollama/bge-m3",
+      "model": "bge-m3",
+      "dimension": 1024
+    }
+  ],
+  "chatModelId": "gpt-5.2 (plan)",
+  "applyModelId": "gpt-5.2",
+  "embeddingModelId": "openai/text-embedding-3-small",
+  "systemPrompt": "",
+  "ragOptions": {
+    "chunkSize": 1000,
+    "thresholdTokens": 8192,
+    "minSimilarity": 0,
+    "limit": 10,
+    "excludePatterns": [],
+    "includePatterns": []
+  },
+  "mcp": {
+    "servers": []
+  },
+  "chatOptions": {
+    "includeCurrentFileContent": true,
+    "enableTools": true,
+    "maxAutoIterations": 1
+  }
+}

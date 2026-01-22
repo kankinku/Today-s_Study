@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "20c634e3e14f60b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "beab087cf0d6eceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42fde23dea3f0332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Settings/01-Templates/git_auto_update.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git_auto_update"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "832e0087293b8979",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa31828e00bcf9ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fafbbf77cf41d541",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "e28a3a2d16160433",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "790501f95a583201",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "11554ae44d2b21ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7d10e339d8bc86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4965e11407e8323d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Work/01_졸업논문(26년)/01. 논문의 핵심 문제의식 정리.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01. 논문의 핵심 문제의식 정리 의 백링크"
+            }
+          },
+          {
+            "id": "ebb7f327db55dd86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02_Work/01_졸업논문(26년)/01. 논문의 핵심 문제의식 정리.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "01. 논문의 핵심 문제의식 정리 의 나가는 링크"
+            }
+          },
+          {
+            "id": "39275c023dcf974b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "592a2d4253a35d2d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "edc310f25d7f3c79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Settings/01-Templates/git_auto_update.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "git_auto_update 의 개요"
+            }
+          },
+          {
+            "id": "884cd5e0a92ad218",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b23bc5577dd719af",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 482
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": true,
+      "templates:템플릿 삽입": true,
+      "command-palette:명령어 팔레트 열기": true,
+      "bases:새 베이스 생성하기": true,
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "smart-composer:Open smart composer": false
+    }
+  },
+  "active": "42fde23dea3f0332",
+  "lastOpenFiles": [
+    "00-Settings/01-Templates/Template_AI_setting.md",
+    "00-Settings/01-Templates/git_auto_update.md",
+    "00-Settings/Obsidian Gemini AI 자동화 툴킷.md",
+    "00-Settings/02-AutoTem/Template-01-BasicSetup.md",
+    "00-Settings/02-AutoTem/Template-07-Custom-Prompt.md",
+    "00-Settings/02-AutoTem/Template-06-Summary.md",
+    "00-Settings/02-AutoTem/Template-05-Tag.md",
+    "00-Settings/02-AutoTem/Template-04-Index.md",
+    "00-Settings/02-AutoTem/Template-03-Topic.md",
+    "00-Settings/02-AutoTem/Template-02-Title.md",
+    "00-Settings/02-AutoTem",
+    "00-Settings/01-Templates/이름 없는 보드.md",
+    "06-fin/[분석 보고서] 2026년 연준 대차대조표 분석 및 비트코인 유동성 전망.md",
+    "06-fin/[분석 보고서] 금리 상승과 성장주 투자 환경 분석.md",
+    "06-fin/[분석 보고서] VIX 시장 변동성 현황 및 자산 방어 전략.md",
+    "06-fin/[분석 보고서] 바이오 주식의 변동성이 심한 이유와 알테오젠 사례 분석.md",
+    "06-fin/[분석 보고서] 원자재 사이클 업데이트 및 유사헤지 수요 분석.md",
+    "01-Personal/02-데스크셋업/수제 모니터 받침대 만들기.md",
+    "04-Study/01-자료/03-Antigravity/[가이드] 안티그래비티 에이전트 스킬 마스터 가이드 프롬프트 소설 작가 탈출하기.md",
+    "01-Personal/02-데스크셋업",
+    "04-Study/01-자료/03-Antigravity/[가이드] Antigravity Skills 사용 가이드.md",
+    "04-Study/01-자료/01-Agents/[학습 보고서] OpenAI 엔지니어의 Codex 활용법 및 멀티 에이전트 워크플로우.md",
+    "04-Study/01-자료/02-Claude/[학습 보고서] 클로드 코드 기반 에이전틱(Agentic) 개발 및 자동화.md",
+    "04-Study/01-자료/02-Claude/[분석 보고서] 천문학 물리 데이터 사이언스 스킬의 금융 공학 활용 전략.md",
+    "04-Study/01-자료/02-Claude/[분석 보고서] 2025 LLM 어시스턴트 코딩 Claude Code 활용 패턴 및 실전 전략 분석.md",
+    "04-Study/01-자료/02-Claude/[가이드] ClaudeCoding.md",
+    "04-Study/99-note/01-claudecodeSample.md",
+    "04-Study/02-에세이/생산성 있는 행동의 변화를 위한 7가지 아이디어..md",
+    "06-fin/규제",
+    "06-fin/트레이딩",
+    "06-fin/통화스왑",
+    "06-fin/테마,순환",
+    "06-fin/일본 국채 관련",
+    "04-Study/01-자료/99-Other",
+    "04-Study/01-자료/03-Antigravity",
+    "04-Study/01-자료/02-Claude",
+    "02_Work/02_World_Maker/무제.canvas",
+    "02_Work/World_Maker/무제.canvas"
+  ]
+}
