@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Settings/01-Templates/git_auto_update.md",
+                "file": "06-fin/[분석 보고서] 희토류 제련의 진정한 문제와 그린란드 전략의 실제 의미.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git_auto_update"
+              "title": "[분석 보고서] 희토류 제련의 진정한 문제와 그린란드 전략의 실제 의미"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Work/01_졸업논문(26년)/01. 논문의 핵심 문제의식 정리.md",
+                "file": "06-fin/[분석 보고서] 희토류 제련의 진정한 문제와 그린란드 전략의 실제 의미.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01. 논문의 핵심 문제의식 정리 의 백링크"
+              "title": "[분석 보고서] 희토류 제련의 진정한 문제와 그린란드 전략의 실제 의미 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Work/01_졸업논문(26년)/01. 논문의 핵심 문제의식 정리.md",
+                "file": "06-fin/[분석 보고서] 희토류 제련의 진정한 문제와 그린란드 전략의 실제 의미.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01. 논문의 핵심 문제의식 정리 의 나가는 링크"
+              "title": "[분석 보고서] 희토류 제련의 진정한 문제와 그린란드 전략의 실제 의미 의 나가는 링크"
             }
           },
           {
@@ -174,23 +174,13 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "b23bc5577dd719af",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 482
+    "width": 482,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,10 +199,11 @@
   },
   "active": "42fde23dea3f0332",
   "lastOpenFiles": [
-    "00-Settings/01-Templates/Template_AI_setting.md",
-    "00-Settings/01-Templates/git_auto_update.md",
-    "00-Settings/Obsidian Gemini AI 자동화 툴킷.md",
     "00-Settings/02-AutoTem/Template-01-BasicSetup.md",
+    "06-fin/[분석 보고서] 희토류 제련의 진정한 문제와 그린란드 전략의 실제 의미.md",
+    "00-Settings/01-Templates/git_auto_update.md",
+    "00-Settings/01-Templates/Template_AI_setting.md",
+    "00-Settings/Obsidian Gemini AI 자동화 툴킷.md",
     "00-Settings/02-AutoTem/Template-07-Custom-Prompt.md",
     "00-Settings/02-AutoTem/Template-06-Summary.md",
     "00-Settings/02-AutoTem/Template-05-Tag.md",
@@ -236,7 +227,6 @@
     "04-Study/01-자료/02-Claude/[분석 보고서] 2025 LLM 어시스턴트 코딩 Claude Code 활용 패턴 및 실전 전략 분석.md",
     "04-Study/01-자료/02-Claude/[가이드] ClaudeCoding.md",
     "04-Study/99-note/01-claudecodeSample.md",
-    "04-Study/02-에세이/생산성 있는 행동의 변화를 위한 7가지 아이디어..md",
     "06-fin/규제",
     "06-fin/트레이딩",
     "06-fin/통화스왑",
