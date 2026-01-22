@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Study/01-자료/99-Other/[분석 보고서] 대규모 언어모델의 에이전틱 추론 종합 분석 보고서.md",
+                "file": "06-fin/[분석 보고서] 트럼프 행정부의 그린란드 이슈와 베센트 재무장관의 전략적 의도 분석.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[분석 보고서] 대규모 언어모델의 에이전틱 추론 종합 분석 보고서"
+              "title": "[분석 보고서] 트럼프 행정부의 그린란드 이슈와 베센트 재무장관의 전략적 의도 분석"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "42fde23dea3f0332",
   "lastOpenFiles": [
-    "06-fin/[분석 보고서] Citadel Rubner 리더십 순환매와 알파 창출의 결정적 국면.md",
     "04-Study/01-자료/99-Other/[분석 보고서] 대규모 언어모델의 에이전틱 추론 종합 분석 보고서.md",
+    "06-fin/[분석 보고서] 트럼프 행정부의 그린란드 이슈와 베센트 재무장관의 전략적 의도 분석.md",
+    "06-fin/[분석 보고서] Citadel Rubner 리더십 순환매와 알파 창출의 결정적 국면.md",
     "06-fin/무제.md",
     "06-fin/[분석 보고서] 희토류 제련의 진정한 문제와 그린란드 전략의 실제 의미.md",
     "00-Settings/02-AutoTem/Template-01-BasicSetup.md",
@@ -224,7 +225,6 @@
     "04-Study/01-자료/03-Antigravity/[가이드] Antigravity Skills 사용 가이드.md",
     "04-Study/01-자료/01-Agents/[학습 보고서] OpenAI 엔지니어의 Codex 활용법 및 멀티 에이전트 워크플로우.md",
     "04-Study/01-자료/02-Claude/[학습 보고서] 클로드 코드 기반 에이전틱(Agentic) 개발 및 자동화.md",
-    "04-Study/01-자료/02-Claude/[분석 보고서] 천문학 물리 데이터 사이언스 스킬의 금융 공학 활용 전략.md",
     "06-fin/규제",
     "06-fin/트레이딩",
     "06-fin/통화스왑",
