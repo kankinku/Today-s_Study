@@ -16,7 +16,7 @@ const commitMsg = `Auto Update: ${timestamp}`;
 
 // 2. 실행할 Git 명령어 조합 (Windows 호환)
 // Change Directory -> Add -> Commit -> Push
-const cmd = `cd /d "${vaultPath}" && git add . && git commit -m "${commitMsg}" && git push origin master`;
+const cmd = `cd /d "${vaultPath}" && git add . && git commit -m "${commitMsg}" && git push origin main`;
 
 // 3. child_process를 통한 실행
 const { exec } = require('child_process');
