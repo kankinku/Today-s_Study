@@ -1,11 +1,8 @@
 [
   "calendar",
   "templater-obsidian",
-  "terminal",
-  "heatmap-calendar",
   "tag-wrangler",
   "editing-toolbar",
   "obsidian-kanban",
-  "smart-composer",
-  "dataview"
+  "smart-composer"
 ]
