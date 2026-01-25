@@ -1,3 +1,5 @@
+# Google Stitch와 Agent Skills가 UI 설계에서 코드 생성까지의 병목을 제거한 구조적 변화
+
 #UI자동화 #AgentSkills #디자인투코드 #워크플로우  
 작성일: 2026-01-25
 

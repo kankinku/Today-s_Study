@@ -1,3 +1,5 @@
+# Claude Code Sample
+
 ## 1. 두 가지 레벨의 설정 (계층적 구조)
 
 Claude Code는 유저 레벨과 프로젝트 레벨의 설정을 합쳐서 인식합니다.
