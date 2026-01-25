@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-IT/01-자료/99-Other/[분석 보고서] Google Stitch와 Agent Skills가 UI 설계에서 코드 생성까지의 병목을 제거한 구조적 변화.md",
+                "file": "04-plan/03-월간/월간 목표 [01~02].md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[분석 보고서] Google Stitch와 Agent Skills가 UI 설계에서 코드 생성까지의 병목을 제거한 구조적 변화"
+              "title": "월간 목표 [01~02]"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-IT/01-자료/99-Other/[분석 보고서] Google Stitch와 Agent Skills가 UI 설계에서 코드 생성까지의 병목을 제거한 구조적 변화.md",
+                "file": "04-plan/03-월간/월간 목표 [01~02].md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "[분석 보고서] Google Stitch와 Agent Skills가 UI 설계에서 코드 생성까지의 병목을 제거한 구조적 변화 의 개요"
+              "title": "월간 목표 [01~02] 의 개요"
             }
           },
           {
@@ -196,8 +196,13 @@
   },
   "active": "28b4572cd7966235",
   "lastOpenFiles": [
-    "06-Finace/01-long/[분석 보고서] 은 가격 급등의 이중 해석과 AI 내러티브에 대한 구조적 리스크.md",
+    "05-IT/01-자료/99-Other/[분석 보고서] 대규모 언어모델의 에이전틱 추론 종합 분석 보고서.md",
+    "04-plan/03-월간/월간 목표 [01~02].md",
+    "05-IT/01-자료/99-Other/[분석 보고서] 온톨로지 컨텍스트 그래프 그리고 시맨틱 레이어 2026년 AI가 진정으로 요구하는 것.md",
+    "05-IT/01-자료/99-Other/[분석 보고서] AI 시대를 초월하는 엔지니어링 본질 및 마스터 로드맵.md",
     "05-IT/01-자료/99-Other/[분석 보고서] Google Stitch와 Agent Skills가 UI 설계에서 코드 생성까지의 병목을 제거한 구조적 변화.md",
+    "05-IT/01-자료/99-Other/[학습 보고서] AI를 처음부터 배우기 좋은 GitHub 레포지토리 정리.md",
+    "06-Finace/01-long/[분석 보고서] 은 가격 급등의 이중 해석과 AI 내러티브에 대한 구조적 리스크.md",
     "2026-01-24.md",
     "04-plan/01-오늘/2026-01-24.md",
     "04-plan/01-오늘/2026-01-24 1.md",
@@ -233,12 +238,7 @@
     "Obsidian_File",
     "07-PM/01-reports",
     "07-PM/00-image",
-    "05-IT/01-자료/99-Other/[분석 보고서] 개발 입문자의 취업 준비 실패를 구조적으로 만드는 세 가지 결손 요인 분석.md",
     "무제.canvas",
-    "🏷️ 강의.md",
-    "06-Finace/01-long/[분석 보고서] 데이터 기반 트레이딩 수학의 심화 및 실전 검증.md",
-    "06-Finace/01-long/[분석 보고서] MOF 개입 후 환율 급변동과 글로벌 리스크 자산 전이 경로 분석.md",
-    "06-Finace/01-long/[분석 보고서] VIX 시장 변동성 현황 및 자산 방어 전략.md",
     "02_Work/02_World_Maker/무제.canvas",
     "02_Work/World_Maker/무제.canvas"
   ]
