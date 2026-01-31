@@ -1,13 +1,13 @@
 {
   "command_timeout": 5,
-  "templates_folder": "00-Settings",
+  "templates_folder": "99-System/00-Config",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": true,
   "shell_path": "",
